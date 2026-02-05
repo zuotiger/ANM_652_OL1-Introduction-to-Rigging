@@ -34,7 +34,11 @@ mult cut来加面
 
 <img width="234" height="452" alt="image" src="https://github.com/user-attachments/assets/721552aa-f7e3-4e67-b98f-1908f0e7dfb1" />
 
-
 <img width="546" height="544" alt="image" src="https://github.com/user-attachments/assets/291f7895-4672-4e03-bfb4-f8f69d25158f" />
 
+
+### Extract 如果在模型中提取表面做衣服之类的怎么清理
+<img width="1196" height="1026" alt="image" src="https://github.com/user-attachments/assets/80992d70-b477-456a-bc32-268e7b2bba38" />
+
+提取后进行清理（清除历史记录等）
 
