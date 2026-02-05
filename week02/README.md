@@ -1,29 +1,21 @@
-# 常见问题
+# ANM_652_OL1: Introduction to Rigging
 
-### 法线反了
+This repository contains my study notes and project progress for the **Introduction to Rigging** course at AnimSchool.
 
-<img width="500" height="978" alt="image" src="https://github.com/user-attachments/assets/cd891450-0f73-423b-ae5a-f311d65e69c9" />
+## Week 02 | Mesh Auditing & Topology Preparation
 
-如何显示Normals朝向
+The focus of this week was on "Mesh Auditing"—the critical process of ensuring a 3D model is technically sound and optimized before the rigging process begins.
 
-<img width="1000" height="1786" alt="image" src="https://github.com/user-attachments/assets/0d5e3207-e1b3-4187-a7a8-b146c245d4fb" />
+### 📑 Weekly Learning Modules
+* **[01 Auditing the Mesh](./week02/01_Auditing%20the%20Mesh.md)**: Learning how to inspect surface consistency and adjust Normals display size for better visibility.
+* **[02 Deep Check](./week02/02_Deep%20Check.md)**: Identifying and resolving topology issues such as Non-manifold geometry, Poles, and N-gons.
+* **[03 CleanUp](./week02/03_CleanUp.md)**: Utilizing Maya’s Cleanup tools, freezing transformations, and deleting history to "zero out" the model.
+* **[04 Wrap-Up (UV)](./week02/04_Wrap-Up(UV).md)**: Final verification of UV layouts and preparing the mesh for the rigging pipeline.
 
-此外 关闭Two Sided Lighting 也可以快速发现错误Normals
+### 🛠 Tools & Skills Mastered
+* **Mesh Integrity**: Detecting geometry errors that cause skinning artifacts.
+* **Selection Constraints**: Efficiently isolating problematic faces (N-gons) in complex meshes.
+* **Pipeline Readiness**: Understanding why a "clean" mesh is the foundation of a stable rig.
 
-<img width="1000" height="1316" alt="image" src="https://github.com/user-attachments/assets/fcaabf7d-7e2e-46f1-9280-17e4cd6b20a5" />
-
-### 重复点
-
-进入vertex face 检查是否有隐藏的重复点/边
-
-<img width="500" height="472" alt="image" src="https://github.com/user-attachments/assets/d20aa8b5-03ef-47dd-98bd-cfd9ddda1710" />
-
-<img width="500" height="1028" alt="image" src="https://github.com/user-attachments/assets/1572b04e-f244-4fb0-9913-cf4d8138f02d" />
-
-使用merge 修复
-
-<img width="400" height="1000" alt="image" src="https://github.com/user-attachments/assets/fcc3ee84-a165-4af5-9553-4aaa5cdb78e9" />
-
-
-<img width="500" height="1096" alt="image" src="https://github.com/user-attachments/assets/253c8572-100d-490a-a3d0-bbf26c6ca62f" />
-
+---
+*Last Updated: February 2026*
