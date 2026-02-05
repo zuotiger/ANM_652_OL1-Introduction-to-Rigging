@@ -30,3 +30,11 @@ mult cut来加面
 
 <img width="738" height="1004" alt="image" src="https://github.com/user-attachments/assets/1df3fde0-0bf7-45ca-8811-81947cc32126" />
 
+调整mirror里的设置（如Mirror Direction）来得到满意的结果
+
+<img width="234" height="452" alt="image" src="https://github.com/user-attachments/assets/721552aa-f7e3-4e67-b98f-1908f0e7dfb1" />
+
+
+<img width="546" height="544" alt="image" src="https://github.com/user-attachments/assets/291f7895-4672-4e03-bfb4-f8f69d25158f" />
+
+
