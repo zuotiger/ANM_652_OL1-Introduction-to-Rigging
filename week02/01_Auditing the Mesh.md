@@ -8,6 +8,10 @@
 
 <img width="1000" height="1786" alt="image" src="https://github.com/user-attachments/assets/0d5e3207-e1b3-4187-a7a8-b146c245d4fb" />
 
+如何调整Normals显示大小
+
+<img width="1204" height="1774" alt="image" src="https://github.com/user-attachments/assets/15810a36-763e-4e99-88b2-b8ebf65e3a0b" />
+
 此外 关闭Two Sided Lighting 也可以快速发现错误Normals
 
 <img width="1000" height="1316" alt="image" src="https://github.com/user-attachments/assets/fcaabf7d-7e2e-46f1-9280-17e4cd6b20a5" />
